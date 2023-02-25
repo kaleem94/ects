@@ -1,2 +1,2 @@
-# ects
+# ECTS
 Embedded Control toolsuite
